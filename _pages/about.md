@@ -28,8 +28,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 2026.06*, <a href="https://www.whu.edu.cn"><img class="svg" src="/images/WHU_logo.svg" width="23pt"></a> 武汉大学 计算机学院, 湖北武汉, 推免学硕 
-- *2016.09 - 2023.06*, <a href="http://www.neu.edu.cn/"><img class="svg" src="/images/NEU_logo.svg" width="20pt"></a> 东北大学 软件学院, 辽宁沈阳, 本科
+- *2023.09 - 2026.06*, <a href="https://www.whu.edu.cn"><img class="png" src="/images/WHU_logo.png" width="23pt"></a> 武汉大学 计算机学院, 湖北武汉, 推免学硕 
+- *2016.09 - 2023.06*, <a href="http://www.neu.edu.cn/"><img class="png" src="/images/NEU_logo.png" width="20pt"></a> 东北大学 软件学院, 辽宁沈阳, 本科
 
 <span class='anchor' id='-lwzl'></span>
 
