@@ -31,7 +31,7 @@ redirect_from:
 ### 英文
 ---
 
--	~~`Song Ouyang`, Qian Zhu. Research on Manufacturer’s Material Ordering and Transshipment Plan Based on Objective Programming and Genetic Algorithm. *CIIS*, 2022~~ (不满意，已录用，未见刊)
+-	`Song Ouyang`, Qian Zhu. Research on Manufacturer’s Material Ordering and Transshipment Plan Based on Objective Programming and Genetic Algorithm. *CIIS*, 2022 *(Accepted)*
 
 ### 中文
 ---
