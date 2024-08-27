@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * M.S., *Artificial Intelligence*, Wuhan University
   * From Sep. 2023 to Jun. 2026 (expected)
   * GPA *(up to now)*: 3.97/4.0
@@ -30,38 +29,14 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: [Huiyu Cai](https://hui2000ji.github.io/)
 
-<!-- * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-  
-Skills
-======
-* PyTorch (Lightning)
-* MindSpore (A little)
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Comming Soon ...
+
+Selected Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+* 
+
   
 Service
 ======
@@ -72,3 +47,8 @@ Service
   * IEEE Membership
   * IEEE Young Professionals
   * IEEE Signal Processing Society Membership
+
+Skills
+======
+* PyTorch (Lightning)
+* MindSpore (A little)
