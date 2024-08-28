@@ -34,7 +34,7 @@ redirect_from:
 
 To be continued ...
 
-## 📝 Projects
+## 🛠 Projects
 
 * [GeoBiologics](https://geobiologics-cn.biogeom.com/index), a generative AI-powered one-stop platform for antibody design.
 * [MindSpore-MAE](https://github.com/mindspore-ai/models), a re-implementation of [Masked Autoencoders Are Scalable Vision Learners](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) in [MindSpore](https://www.mindspore.cn/en).

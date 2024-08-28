@@ -23,4 +23,4 @@ I am passionate about the AI applications in scientific research, particularly i
 * *[Aug. 28, 2024]* Today, I built my personal homepage! Congrats!
 * *[Jun. 2023]* I graduate from Software College of NEU and recevie B.S. degree. 
 
-<br><br><br><br><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3tiBLIyk5FYO3FPjwYYcq7iGYneStJzPj8soeWJivwc&cl=ffffff&w=540&h=360"></script>
+<br><br><br><br><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3tiBLIyk5FYO3FPjwYYcq7iGYneStJzPj8soeWJivwc&cl=ffffff&w=510&h=340"></script>
