@@ -2,9 +2,8 @@
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+redirect_to: 
+  - 'https://gift-oys.github.io/files/cv.pdf'
 ---
 
 <!-- ## Locations of key files/directories

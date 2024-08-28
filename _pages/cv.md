@@ -22,11 +22,13 @@ redirect_from:
   * Research Interest: Multimodal Learning, NILM (Non-Intrusive Load Monitoring)
   * Supervisor: [Prof. Zhuofu Deng](https://scholar.google.com/citations?hl=zh-CN&user=wd_bmu0AAAAJ)
 
-## 💼 Work Experience
+## 💼 Experience
 
 * **Spring & Summer 2023, Software Engineer (Intern)**
   * [BioGeometry](https://www.biogeom.com/) (Beijing)
   * Supervisor: [Dr. Huiyu Cai](https://hui2000ji.github.io/)
+* **Summer 2022, Algorithm Engineer (Intern)**
+  * HUAWEI Ascend
 
 ## 📝 Publications
 
