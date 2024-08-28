@@ -37,7 +37,7 @@ To be continued ...
 ## 📝 Projects
 
 * [GeoBiologics](https://geobiologics-cn.biogeom.com/index), a generative AI-powered one-stop platform for antibody design.
-* [MindSpore](https://github.com/mindspore-ai/models)-MAE, a re-implementation of [Masked Autoencoders Are Scalable Vision Learners](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf).
+* [MindSpore-MAE](https://github.com/mindspore-ai/models), a re-implementation of [Masked Autoencoders Are Scalable Vision Learners](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) in [MindSpore](https://www.mindspore.cn/en).
 
 ## 🏅 Selected Honors
 
@@ -79,5 +79,6 @@ To be continued ...
 
 ## 👉 Skills
 
-* PyTorch (Lightning)
-* MindSpore
+* [PyTorch](https://pytorch.org/) ([Lightning](https://lightning.ai/))
+* [MindSpore](https://www.mindspore.cn/en)
+* ...
