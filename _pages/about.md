@@ -17,7 +17,7 @@ I am a second-year M.S. student at [SIGMA Group](http://sigma.whu.edu.cn/) in th
 
 I am passionate about the AI applications in scientific research, particularly in the protein field, and I am also interested in machine learning theory. My guiding principle in research is to engage in meaningful (有意义的) and joyful (有意思的) scientific work.
 
-<font color=red>I am looking for research collaborator or Research Scientist/Engineer in job market. Feel free to contact me if you have any openings! (recommended via email)</font>
+**<font color=red>I am currently seeking research collaborators and am also open to job opportunities as a Research Scientist/Engineer. Please feel free to contact me! (recommended via email)</font>**
 
 ## News
 * *[Aug. 28, 2024]* Today, I built my personal homepage! Congrats!
