@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Song Ouyang's Homepage"
+title                    : "Song OUYANG's Homepage"
 title_separator          : "-"
-name                     : &name "Song Ouyang"
+name                     : &name "Song OUYANG"
 description              : &description "personal description"
 url                      : https://Gift-OYS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Gift-OYS/Gift-OYS.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Song Ouyang [欧阳崧]"
+  name             : "Song OUYANG [欧阳崧]"
   pronouns         : # example: "she/her"  
   bio              : "M.S. student in School of Computer Science, Wuhan University"
   location         : "China"
