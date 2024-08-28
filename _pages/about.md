@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Welcome to my homepage!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Welcome to my homepage!
 
 > <font face="华文新魏" size="5">人生没有白走的路，每一步都算数。</font>
 
