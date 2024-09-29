@@ -20,7 +20,7 @@ I am passionate about the AI applications in scientific research, particularly i
 **<font color=red>I am currently seeking research collaborators and am also open to job opportunities as a Research Scientist/Engineer. Please feel free to contact me! (recommended via email)</font>**
 
 ## News
-* <font color=red>*[Sep. 2024]* Our paper *MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins* has been accepted as poster by [NeurIPS 2024](https://openreview.net/forum?id=XHdwlbNSVb)!</font>
+* *[Sep. 2024]* Our paper [MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins](https://openreview.net/pdf?id=XHdwlbNSVb) has been accepted as poster by **[NeurIPS 2024](https://neurips.cc/Conferences/2024)**!
 * *[Aug. 28, 2024]* Today, I built my personal homepage! Congrats!
 * *[Jun. 2023]* I graduated from the Software College of NEU and recevied B.S. degree. 
 
