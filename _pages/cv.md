@@ -32,7 +32,27 @@ redirect_from:
 
 ## 📝 Publications
 
-To be continued ...
+<div style="display: flex; align-items: left;">
+  <img src="/images/MMSite.svg" alt="image" style="width: 200px; margin-right: 10px;">
+  <p>
+  <span style="font-weight: bold">MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins</span>
+  <br>
+  <span style="font-weight: bold">Song Ouyang</span>, Huiyu Cai, Yong Luo, Kehua Su, Lefei Zhang, Bo Du
+  <br>
+  Annual Conference on Neural Information Processing Systems (NeurIPS) 2024
+  <br>
+  [<a href="https://openreview.net/pdf?id=XHdwlbNSVb">Paper</a>] [<a href="https://github.com/Gift-OYS/MMSite">Code</a>] [<a href="https://neurips.cc/media/neurips-2024/Slides/94780.pdf">Slides</a>] [<a href="https://recorder-v3.slideslive.com/?share=93730&s=8eb4885a-8026-40ec-990c-fe15ddbef6d0">Video</a>]
+  </p>
+</div>
+
+
+<!-- <p style="display: flex; align-items: center;">
+  <img src="/images/MMSite.svg" alt="image" style="width: 150px; margin-right: 10px;">
+  这里是并排显示的文字。
+</p> -->
+
+
+
 
 ## 🛠 Projects
 
@@ -58,7 +78,7 @@ To be continued ...
   * *[Dec. 2020]* Outstanding Student Model of NEU **(Top 1%)**
   * *[Oct. 2020]* First-Class Scholarship of NEU **(Top 2%)**
 * **Competitions** <font size=3>(* indicates that I am the team leader)</font>
-  * *[Nov. 2024]* **National Second Prize** of China Post-Graduate Mathematical Contest in Modeling* **(Top 1 in WHU)**
+  * *[Nov. 2024]* **National Second Prize** of China Post-Graduate Mathematical Contest in Modeling (CPMCM)* **(Top 1 in WHU)**
   * *[Dec. 2023]* **National Excellence Award** of Chinese Artificial Intelligence Application Scenario Innovation Challenge
   * *[Jul. 2022]* **National Bronze Award** of National College Student Algorithm Design and Programming Challenge*
   * *[Jun. 2022]* **National Second Prize** of Lanqiao Cup National Software and Information Technology Professional Talent Competition
@@ -73,7 +93,7 @@ To be continued ...
 
 * **Reviewer**
   * International Conference on Pattern Recognition **(ICPR)**, 2024
-  * ACM Transactions on Knowledge Discovery from Data **(TKDD)**, 2023 *(co-reviewer)*
+  * ACM Transactions on Knowledge Discovery from Data **(TKDD)**, 2023
 * **Membership**
   * IEEE Membership
   * IEEE Young Professionals
