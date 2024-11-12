@@ -13,7 +13,7 @@ redirect_from:
 
 * **M.S., *Artificial Intelligence*, Wuhan University**
   * From Sept. 2023 to Jun. 2026 (expected)
-  * GPA *(up to now)*: 3.67/4.00
+  * GPA: 3.67/4.00
   * Research Interest: AI for Protein, Machine Learning
   * Supervisor: [Prof. Yong Luo](https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ) and [Prof. Bo Du](https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ)
 * **B.S., *Software Engineering*, Northeastern University (CN)**
@@ -42,6 +42,7 @@ To be continued ...
 ## 🏅 Selected Honors
 
 * **Awards**
+  * *[Nov. 2024]* Second-Class Scholarship of WHU **(Top 12%)**
   * *[Nov. 2023]* First-Class Scholarship for Outstanding Freshmen **(Top 10%)**
   * *[Jun. 2023]* Student Model Award of Software College **(Top 0.25%)**
   * *[Jun. 2023]* Outstanding Graduate of Liaoning Province **(Top 3%)**
@@ -57,6 +58,7 @@ To be continued ...
   * *[Dec. 2020]* Outstanding Student Model of NEU **(Top 1%)**
   * *[Oct. 2020]* First-Class Scholarship of NEU **(Top 2%)**
 * **Competitions** <font size=3>(* indicates that I am the team leader)</font>
+  * *[Nov. 2024]* **National Second Prize** of China Post-Graduate Mathematical Contest in Modeling* **(Top 1 in WHU)**
   * *[Dec. 2023]* **National Excellence Award** of Chinese Artificial Intelligence Application Scenario Innovation Challenge
   * *[Jul. 2022]* **National Bronze Award** of National College Student Algorithm Design and Programming Challenge*
   * *[Jun. 2022]* **National Second Prize** of Lanqiao Cup National Software and Information Technology Professional Talent Competition
