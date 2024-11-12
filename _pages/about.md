@@ -21,7 +21,7 @@ I am passionate about the AI applications in scientific research, particularly i
 
 ## News
 * *[Nov. 2024]* We won the **National Second Prize** in CPMCM. Many thanks to my teammates in XpLOrers!
-* *[Oct. 2024]* I attended the China National Computer Congress 2024 (CNCC 2024) held in Zhejiang.
+* *[Oct. 2024]* I attended the China National Computer Congress (CNCC) 2024.
 * *[Sep. 2024]* One paper was accepted by **NeurIPS 2024**!
 * *[Aug. 28, 2024]* Today, I built my personal homepage! Congrats!
 * *[Jun. 2023]* I graduated from the Software College of NEU and recevied B.S. degree. 

@@ -12,12 +12,12 @@ redirect_from:
 ## 🎓 Education
 
 * **M.S., *Artificial Intelligence*, Wuhan University**
-  * From Sept. 2023 to Jun. 2026 (expected)
+  * From Sep. 2023 to Jun. 2026 (expected)
   * GPA: 3.67/4.00
   * Research Interest: AI for Protein, Machine Learning
   * Supervisor: [Prof. Yong Luo](https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ) and [Prof. Bo Du](https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ)
 * **B.S., *Software Engineering*, Northeastern University (CN)**
-  * From Sept. 2019 to Jun. 2023
+  * From Sep. 2019 to Jun. 2023
   * GPA: 4.23/5.00 **(Top 1%)**
   * Research Interest: Multimodal Learning, NILM (Non-Intrusive Load Monitoring)
   * Supervisor: [Prof. Zhuofu Deng](https://scholar.google.com/citations?hl=zh-CN&user=wd_bmu0AAAAJ)
@@ -32,27 +32,19 @@ redirect_from:
 
 ## 📝 Publications
 
-<div style="display: flex; align-items: left;">
-  <img src="/images/MMSite.svg" alt="image" style="width: 200px; margin-right: 10px;">
+<div style="display: flex; align-items: center;">
+  <img src="/images/MMSite.svg" alt="image" style="width: 300px; margin-right: 10px;">
   <p>
-  <span style="font-weight: bold">MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins</span>
+  <span style="font-weight: bold; font-size: 19px">MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins</span>
   <br>
   <span style="font-weight: bold">Song Ouyang</span>, Huiyu Cai, Yong Luo, Kehua Su, Lefei Zhang, Bo Du
   <br>
-  Annual Conference on Neural Information Processing Systems (NeurIPS) 2024
+  <i>38th Annual Conference on Neural Information Processing Systems</i> 
+  <span style="font-weight: bold">(NeurIPS 2024)</span>
   <br>
   [<a href="https://openreview.net/pdf?id=XHdwlbNSVb">Paper</a>] [<a href="https://github.com/Gift-OYS/MMSite">Code</a>] [<a href="https://neurips.cc/media/neurips-2024/Slides/94780.pdf">Slides</a>] [<a href="https://recorder-v3.slideslive.com/?share=93730&s=8eb4885a-8026-40ec-990c-fe15ddbef6d0">Video</a>]
   </p>
 </div>
-
-
-<!-- <p style="display: flex; align-items: center;">
-  <img src="/images/MMSite.svg" alt="image" style="width: 150px; margin-right: 10px;">
-  这里是并排显示的文字。
-</p> -->
-
-
-
 
 ## 🛠 Projects
 
@@ -70,10 +62,10 @@ redirect_from:
   * *[Mar. 2023]* First-Class Scholarship of NEU **(Top 2%)**
   * *[Dec. 2022]* National Scholarship **(Top 1%)**
   * *[Dec. 2022]* Outstanding Student Model Award of NEU **(Top 1%)**
-  * *[Sept. 2022]* First-Class Scholarship of NEU **(Top 2%)**
+  * *[Sep. 2022]* First-Class Scholarship of NEU **(Top 2%)**
   * *[Dec. 2021]* *Xianggangyucai* First-Class Scholarship of NEU **(Only 1)**
   * *[Dec. 2021]* Outstanding Student Leader Model of NEU **(Top 1%)**
-  * *[Sept. 2021]* First-Class Scholarship of NEU **(Top 2%)**
+  * *[Sep. 2021]* First-Class Scholarship of NEU **(Top 2%)**
   * *[Dec. 2020]* National Scholarship **(Top 1%)**
   * *[Dec. 2020]* Outstanding Student Model of NEU **(Top 1%)**
   * *[Oct. 2020]* First-Class Scholarship of NEU **(Top 2%)**
