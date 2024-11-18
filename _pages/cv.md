@@ -42,7 +42,7 @@ redirect_from:
   <i>38th Annual Conference on Neural Information Processing Systems</i> 
   <span style="font-weight: bold">(NeurIPS 2024)</span>
   <br>
-  [<a href="https://openreview.net/pdf?id=XHdwlbNSVb">Paper</a>] [<a href="https://github.com/Gift-OYS/MMSite">Code</a>] [<a href="https://neurips.cc/media/neurips-2024/Slides/94780.pdf">Slides</a>] [<a href="https://recorder-v3.slideslive.com/?share=93730&s=8eb4885a-8026-40ec-990c-fe15ddbef6d0">Video</a>]
+  [<a href="https://openreview.net/pdf?id=XHdwlbNSVb">Paper</a>] [<a href="https://github.com/Gift-OYS/MMSite">Code</a>] [<a href="https://neurips.cc/media/neurips-2024/Slides/94780.pdf">Slides</a>]
   </p>
 </div>
 
