@@ -54,17 +54,18 @@ redirect_from:
 ## 🏅 Selected Honors
 
 * **Awards**
+  * *[Nov. 2024]* Outstanding Graduate Student of WHU **(Top 20%)**
   * *[Nov. 2024]* Second-Class Scholarship of WHU **(Top 12%)**
   * *[Nov. 2023]* First-Class Scholarship for Outstanding Freshmen **(Top 10%)**
   * *[Jun. 2023]* Student Model Award of Software College **(Top 0.25%)**
   * *[Jun. 2023]* Outstanding Graduate of Liaoning Province **(Top 3%)**
-  * *[May 2023]* Outstanding University Student of Shenyang City **(Only 1)**
+  * *[May. 2023]* Outstanding University Student of Shenyang City **(Only 1)**
   * *[Mar. 2023]* First-Class Scholarship of NEU **(Top 2%)**
   * *[Dec. 2022]* National Scholarship **(Top 1%)**
   * *[Dec. 2022]* Outstanding Student Model Award of NEU **(Top 1%)**
   * *[Sep. 2022]* First-Class Scholarship of NEU **(Top 2%)**
   * *[Dec. 2021]* *Xianggangyucai* First-Class Scholarship of NEU **(Only 1)**
-  * *[Dec. 2021]* Outstanding Student Leader Model of NEU **(Top 1%)**
+  * *[Dec. 2021]* Outstanding Student Cadre Model of NEU **(Top 1%)**
   * *[Sep. 2021]* First-Class Scholarship of NEU **(Top 2%)**
   * *[Dec. 2020]* National Scholarship **(Top 1%)**
   * *[Dec. 2020]* Outstanding Student Model of NEU **(Top 1%)**
