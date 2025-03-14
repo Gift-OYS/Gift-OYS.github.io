@@ -85,6 +85,7 @@ redirect_from:
 ## 📌 Academic Service
 
 * **Reviewer**
+  * International Conference on Machine Learning **(ICML)** 2025
   * International Conference on Pattern Recognition **(ICPR)**, 2024
   * ACM Transactions on Knowledge Discovery from Data **(TKDD)**, 2023
 * **Membership**
