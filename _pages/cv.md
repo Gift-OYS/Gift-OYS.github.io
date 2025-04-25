@@ -24,10 +24,13 @@ redirect_from:
 
 ## 💼 Experience
 
-* **Spring & Summer 2023, Software Engineer (Intern)**
-  * [BioGeometry](https://www.biogeom.com/) (Beijing)
-  * Supervisor: [Dr. Huiyu Cai](https://hui2000ji.github.io/)
-* **Summer 2022, Algorithm Engineer (Intern)**
+* **Spring & Summer 2025, Research Intern**
+  * [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), AI for Science Group
+  * Mentor: [Dr. Ran Bi](https://www.microsoft.com/en-us/research/people/biran/)
+* **Spring & Summer 2023, Development Intern**
+  * [BioGeometry](https://www.biogeom.com/)
+  * Mentor: [Dr. Huiyu Cai](https://hui2000ji.github.io/)
+* **Summer 2022, Algorithm Intern**
   * HUAWEI Ascend
 
 ## 📝 Publications
@@ -85,6 +88,7 @@ redirect_from:
 ## 📌 Academic Service
 
 * **Reviewer**
+  * Annual Conference on Neural Information Processing Systems **(NeurIPS)**, 2025
   * International Conference on Machine Learning **(ICML)**, 2025
   * International Conference on Pattern Recognition **(ICPR)**, 2024
   * ACM Transactions on Knowledge Discovery from Data **(TKDD)**, 2023
