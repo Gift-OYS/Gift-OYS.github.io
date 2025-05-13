@@ -33,7 +33,7 @@ redirect_from:
 * **Summer 2022, Algorithm Intern**
   * HUAWEI Ascend
 
-## 📝 Publications <font size=3>(* indicates corresponding authors)</font>
+## 📝 Publications <font size=3>(* indicates equal contribution)</font>
 
 <div style="display: flex; align-items: center;">
   <img src="../images/ACSB.png" alt="image" style="width: 300px; margin-right: 10px;">
