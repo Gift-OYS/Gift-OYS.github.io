@@ -25,7 +25,7 @@ redirect_from:
 ## 💼 Experience
 
 * **Spring & Summer 2025, Research Intern**
-  * [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), AI for Science Group
+  * [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), AI for Science Group
   * Mentor: [Dr. Ran Bi](https://www.microsoft.com/en-us/research/people/biran/)
 * **Spring & Summer 2023, Development Intern**
   * [BioGeometry](https://www.biogeom.com/)
@@ -71,32 +71,32 @@ redirect_from:
 ## 🏅 Selected Honors
 
 * **Awards**
-  * *[Nov. 2024]* Outstanding Graduate Student of WHU **(Top 20%)**
-  * *[Nov. 2024]* Second-Class Scholarship of WHU **(Top 12%)**
-  * *[Nov. 2023]* First-Class Scholarship for Outstanding Freshmen **(Top 10%)**
-  * *[Jun. 2023]* Student Model Award of Software College **(Top 0.25%)**
-  * *[Jun. 2023]* Outstanding Graduate of Liaoning Province **(Top 3%)**
-  * *[May. 2023]* Outstanding University Student of Shenyang City **(Only 1)**
-  * *[Mar. 2023]* First-Class Scholarship of NEU **(Top 2%)**
-  * *[Dec. 2022]* National Scholarship **(Top 1%)**
-  * *[Dec. 2022]* Outstanding Student Model Award of NEU **(Top 1%)**
-  * *[Sep. 2022]* First-Class Scholarship of NEU **(Top 2%)**
-  * *[Dec. 2021]* *Xianggangyucai* First-Class Scholarship of NEU **(Only 1)**
-  * *[Dec. 2021]* Outstanding Student Cadre Model of NEU **(Top 1%)**
-  * *[Sep. 2021]* First-Class Scholarship of NEU **(Top 2%)**
-  * *[Dec. 2020]* National Scholarship **(Top 1%)**
-  * *[Dec. 2020]* Outstanding Student Model of NEU **(Top 1%)**
-  * *[Oct. 2020]* First-Class Scholarship of NEU **(Top 2%)**
+  * [Nov. 2024] Outstanding Graduate Student of WHU **(Top 20%)**
+  * [Nov. 2024] Second-Class Scholarship of WHU **(Top 12%)**
+  * [Nov. 2023] First-Class Scholarship for Outstanding Freshmen **(Top 10%)**
+  * [Jun. 2023] Student Model Award of Software College **(Top 0.25%)**
+  * [Jun. 2023] Outstanding Graduate of Liaoning Province **(Top 3%)**
+  * [May. 2023] Outstanding University Student of Shenyang City **(Only 1)**
+  * [Mar. 2023] First-Class Scholarship of NEU **(Top 2%)**
+  * [Dec. 2022] National Scholarship **(Top 1%)**
+  * [Dec. 2022] Outstanding Student Model Award of NEU **(Top 1%)**
+  * [Sep. 2022] First-Class Scholarship of NEU **(Top 2%)**
+  * [Dec. 2021] *Xianggangyucai* First-Class Scholarship of NEU **(Only 1)**
+  * [Dec. 2021] Outstanding Student Cadre Model of NEU **(Top 1%)**
+  * [Sep. 2021] First-Class Scholarship of NEU **(Top 2%)**
+  * [Dec. 2020] National Scholarship **(Top 1%)**
+  * [Dec. 2020] Outstanding Student Model of NEU **(Top 1%)**
+  * [Oct. 2020] First-Class Scholarship of NEU **(Top 2%)**
 * **Competitions** <font size=3>(* indicates that I am the team leader)</font>
-  * *[Nov. 2024]* **National Second Prize** of China Post-Graduate Mathematical Contest in Modeling (CPMCM)* **(Top 1 in WHU)**
-  * *[Dec. 2023]* **National Excellence Award** of Chinese Artificial Intelligence Application Scenario Innovation Challenge
-  * *[Jul. 2022]* **National Bronze Award** of National College Student Algorithm Design and Programming Challenge*
-  * *[Jun. 2022]* **National Second Prize** of Lanqiao Cup National Software and Information Technology Professional Talent Competition
+  * [Nov. 2024] **National Second Prize** of China Post-Graduate Mathematical Contest in Modeling (CPMCM)* **(Top 1 in WHU)**
+  * [Dec. 2023] **National Excellence Award** of Chinese Artificial Intelligence Application Scenario Innovation Challenge
+  * [Jul. 2022] **National Bronze Award** of National College Student Algorithm Design and Programming Challenge*
+  * [Jun. 2022] **National Second Prize** of Lanqiao Cup National Software and Information Technology Professional Talent Competition
   <!-- * **Provincial Silver Award** of "Internet+" College Student Innovation and Entrepreneurship Competition, 2021-11 -->
   <!-- * **Provincial First Prize** of National Undergraduate Mathematical Contest in Modeling, 2021-10 -->
   <!-- * **Provincial Second Prize** of WeChat Mini Program Application Development Competition of the China Collegiate Computing Competition, 2021-08 -->
-  * *[Jul. 2021]* **National Third Prize** of China College Student Computer Design Competition*
-  * *[Apr. 2021]* **Honorable Mention** of Mathematical Contest in Modeling (MCM)*
+  * [Jul. 2021] **National Third Prize** of China College Student Computer Design Competition*
+  * [Apr. 2021] **Honorable Mention** of Mathematical Contest in Modeling (MCM)*
   <!-- * **Provincial Second** Prize of National Undergraduate Mathematics Competition, 2020-11 -->
 
 ## 📌 Academic Service
