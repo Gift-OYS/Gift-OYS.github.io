@@ -15,7 +15,7 @@ redirect_from:
   * From Sep. 2023 to Jun. 2026 (expected)
   * GPA: 3.67/4.00
   * Research Interest: AI for Protein, Machine Learning
-  * Supervisor: [Prof. Kehua Su](https://jszy.whu.edu.cn/sukehua/zh_CN/index.htm), [Prof. Yong Luo](https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ) and [Prof. Bo Du](https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ)
+  * Supervisor: [Prof. Kehua Su](https://jszy.whu.edu.cn/sukehua/en_US/index.htm), [Prof. Yong Luo](https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ) and [Prof. Bo Du](https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ)
 * **B.S., *Software Engineering*, Northeastern University (CN)**
   * From Sep. 2019 to Jun. 2023
   * GPA: 4.23/5.00 **(Top 1%)**
@@ -40,7 +40,7 @@ redirect_from:
   <p>
   <span style="font-weight: bold; font-size: 19px">Anatomy-Conserving Unpaired CBCT-to-CT Translation via Schrödinger Bridge</span>
   <br>
-  <a href="">Ke Shi</a>*, <span style="font-weight: bold">Song Ouyang</span>*, <a href="https://jszy.whu.edu.cn/sukehua/zh_CN/index.htm">Kehua Su</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ">Yong Luo</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ">Bo Du</a>, <a href="https://scholar.google.com/citations?user=mMn1WLIAAAAJ&hl=en">Gang Liu</a>, <a href="https://www.whuh.com/zlzx/info/1754/1199.htm">Zhiwen Liang</a>
+  <a href="">Ke Shi</a>*, <span style="font-weight: bold">Song Ouyang</span>*, <a href="https://jszy.whu.edu.cn/sukehua/en_US/index.htm">Kehua Su</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ">Yong Luo</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ">Bo Du</a>, <a href="https://scholar.google.com/citations?user=mMn1WLIAAAAJ&hl=en">Gang Liu</a>, <a href="https://www.whuh.com/zlzx/info/1754/1199.htm">Zhiwen Liang</a>
   <br>
   <i>28th International Conference on Medical Image Computing and Computer Assisted Intervention</i>
   <span style="font-weight: bold">(MICCAI 2025)</span> <i>(Early Accept)</i>
@@ -54,7 +54,7 @@ redirect_from:
   <p>
   <span style="font-weight: bold; font-size: 19px">MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins</span>
   <br>
-  <span style="font-weight: bold">Song Ouyang</span>, <a href="https://hui2000ji.github.io/">Huiyu Cai</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ">Yong Luo</a>, <a href="https://jszy.whu.edu.cn/sukehua/zh_CN/index.htm">Kehua Su</a>, <a href="https://scholar.google.com/citations?user=BLKHwNwAAAAJ&hl=en">Lefei Zhang</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ">Bo Du</a>
+  <span style="font-weight: bold">Song Ouyang</span>, <a href="https://hui2000ji.github.io/">Huiyu Cai</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ">Yong Luo</a>, <a href="https://jszy.whu.edu.cn/sukehua/en_US/index.htm">Kehua Su</a>, <a href="https://scholar.google.com/citations?user=BLKHwNwAAAAJ&hl=en">Lefei Zhang</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ">Bo Du</a>
   <br>
   <i>38th Annual Conference on Neural Information Processing Systems</i> 
   <span style="font-weight: bold">(NeurIPS 2024)</span>
