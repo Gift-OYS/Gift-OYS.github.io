@@ -40,7 +40,7 @@ redirect_from:
   <p>
   <span style="font-weight: bold; font-size: 19px">Anatomy-Conserving Unpaired CBCT-to-CT Translation via Schrödinger Bridge</span>
   <br>
-  Ke Shi*, <span style="font-weight: bold">Song Ouyang</span>*, <a href="https://jszy.whu.edu.cn/sukehua/zh_CN/index.htm">Kehua Su</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ">Yong Luo</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ">Bo Du</a>, Gang Liu, Zhiwen Liang
+  Ke Shi*, <span style="font-weight: bold">Song Ouyang</span>*, <a href="https://jszy.whu.edu.cn/sukehua/zh_CN/index.htm">Kehua Su</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ">Yong Luo</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ">Bo Du</a>, <a href="https://scholar.google.com/citations?user=mMn1WLIAAAAJ&hl=en">Gang Liu</a>, <a href="https://www.whuh.com/zlzx/info/1754/1199.htm">Zhiwen Liang</a>
   <br>
   <i>28th International Conference on Medical Image Computing and Computer Assisted Intervention</i>
   <span style="font-weight: bold">(MICCAI 2025)</span> <i>(Early Accept)</i>
