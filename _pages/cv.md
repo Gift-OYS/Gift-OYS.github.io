@@ -33,10 +33,24 @@ redirect_from:
 * **Summer 2022, Algorithm Intern**
   * HUAWEI Ascend
 
-## 📝 Publications
+## 📝 Publications <font size=3>(* indicates corresponding authors)</font>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/MMSite.svg" alt="image" style="width: 300px; margin-right: 10px;">
+  <img src="../images/ACSB.png" alt="image" style="width: 300px; margin-right: 10px;">
+  <p>
+  <span style="font-weight: bold; font-size: 19px">Anatomy-Conserving Unpaired CBCT-to-CT Translation via Schrödinger Bridge</span>
+  <br>
+  Ke Shi*, <span style="font-weight: bold">Song Ouyang</span>*, Kehua Su, Yong Luo, Bo Du, Gang Liu, Zhiwen Liang
+  <br>
+  <i>28th International Conference on Medical Image Computing and Computer Assisted Intervention</i>
+  <span style="font-weight: bold">(MICCAI 2025)</span> <i>(Early Accept)</i>
+  <br>
+  [Paper] [Code]
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/MMSite.svg" alt="image" style="width: 300px; margin-right: 10px;">
   <p>
   <span style="font-weight: bold; font-size: 19px">MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins</span>
   <br>

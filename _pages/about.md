@@ -20,11 +20,12 @@ I am passionate about the AI applications in scientific research, particularly i
 **<font color=red>I am currently seeking research collaborators and am also open to job opportunities as a Research Scientist/Engineer. Please feel free to contact me! (recommended via email)</font>**
 
 ## News
-* *[Apr. 2025]* I work as a Research Intern in **MSR Asia** from now!
-* *[Nov. 2024]* We won the **National Second Prize** in CPMCM. Many thanks to my teammates in XpLOrers!
-* *[Oct. 2024]* I attended the China National Computer Congress (CNCC) 2024.
-* *[Sep. 2024]* One paper was accepted by **NeurIPS 2024**!
-* *[Aug. 28, 2024]* Today, I built my personal homepage! Congrats!
-* *[Jun. 2023]* I graduated from the Software College of NEU and recevied B.S. degree. 
+* [May. 2025] One paper I co-authored was accepted by **MICCAI 2025** *(Early Accept)*!
+* [Apr. 2025] I work as a Research Intern in **MSR Asia** from now!
+* [Nov. 2024] We won the **National Second Prize** in CPMCM. Many thanks to my teammates in XpLOrers!
+* [Oct. 2024] I attended the China National Computer Congress (CNCC) 2024.
+* [Sep. 2024] One paper was accepted by **NeurIPS 2024**!
+* [Aug. 28, 2024] Today, I built my personal homepage! Congrats!
+* [Jun. 2023] I graduated from the Software College of NEU and recevied B.S. degree. 
 
 <br><br><br><br><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3tiBLIyk5FYO3FPjwYYcq7iGYneStJzPj8soeWJivwc&cl=ffffff&w=510&h=340"></script>
