@@ -13,7 +13,7 @@ redirect_from:
 
 * **M.S., *Artificial Intelligence*, Wuhan University**
   * From Sep. 2023 to Jun. 2026 (expected)
-  * GPA: 3.67/4.00
+  * GPA: 3.69/4.00
   * Research Interest: AI for Protein, Machine Learning
   * Supervisor: [Prof. Kehua Su](https://jszy.whu.edu.cn/sukehua/en_US/index.htm), [Prof. Yong Luo](https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ) and [Prof. Bo Du](https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ)
 * **B.S., *Software Engineering*, Northeastern University (CN)**
