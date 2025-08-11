@@ -14,7 +14,7 @@ redirect_from:
 * **M.S., *Artificial Intelligence*, Wuhan University**
   * From Sep. 2023 to Jun. 2026 (expected)
   * GPA: 3.69/4.00
-  * Research Interest: AI for Protein, Machine Learning
+  * Research Interest: AI for Life Science, Machine Learning
   * Supervisor: [Prof. Kehua Su](https://jszy.whu.edu.cn/sukehua/en_US/index.htm), [Prof. Yong Luo](https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ) and [Prof. Bo Du](https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ)
 * **B.S., *Software Engineering*, Northeastern University (CN)**
   * From Sep. 2019 to Jun. 2023
@@ -24,13 +24,16 @@ redirect_from:
 
 ## 💼 Experience
 
-* **Spring & Summer 2025, Research Intern**
+* **Summer & Fall 2025, Intern**
+  * [Tencent](https://www.tencent.com/en-us/), AI for Life Science Lab
+  * Mentor: [Dr. Biaobin Jiang](https://www.microsoft.com/en-us/research/people/biran/)
+* **Spring & Summer 2025, Intern**
   * [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), AI for Science Group
   * Mentor: [Dr. Ran Bi](https://www.microsoft.com/en-us/research/people/biran/)
-* **Spring & Summer 2023, Development Intern**
+* **Spring & Summer 2023, Intern**
   * [BioGeometry](https://www.biogeom.com/)
   * Mentor: [Dr. Huiyu Cai](https://hui2000ji.github.io/)
-* **Summer 2022, Algorithm Intern**
+* **Summer 2022, Intern**
   * HUAWEI Ascend
 
 ## 📝 Publications <font size=3>(* indicates equal contribution)</font>
