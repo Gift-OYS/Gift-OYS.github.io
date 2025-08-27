@@ -112,7 +112,8 @@ redirect_from:
 * **Membership**
   * IEEE Membership
   * IEEE Young Professionals
-  * IEEE Signal Processing Society Membership
+  * IEEE Geoscience and Remote Sensing Society Membership
+  <!-- * IEEE Signal Processing Society Membership -->
 
 ## 👉 Skills
 
