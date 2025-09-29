@@ -48,7 +48,7 @@ redirect_from:
   <i>28th International Conference on Medical Image Computing and Computer Assisted Intervention</i>
   <span style="font-weight: bold">(MICCAI 2025)</span> <i>(Early Accept)</i>
   <br>
-  [Paper] [<a href="https://github.com/Lalala-iks/ACSB">Code</a>]
+  [<a href="https://papers.miccai.org/miccai-2025/paper/5303_paper.pdf">Paper</a>] [<a href="https://github.com/Lalala-iks/ACSB">Code</a>]
   </p>
 </div>
 
