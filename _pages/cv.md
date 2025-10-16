@@ -39,11 +39,24 @@ redirect_from:
 ## 📝 Publications <font size=3>(* indicates equal contribution)</font>
 
 <div style="display: flex; align-items: center;">
+  <img src="../images/M3Site.jpg" alt="image" style="width: 300px; margin-right: 10px;">
+  <p>
+  <span style="font-weight: bold; font-size: 19px">M<sup>3</sup>Site: Multi-Class Multi-Modal Learning for Protein Active Site Identification and Classification</span>
+  <br>
+  <span style="font-weight: bold">Song Ouyang</span>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ">Yong Luo</a>, <a href="https://hui2000ji.github.io/">Huiyu Cai</a>, Dongjing Shan, <a href="https://jszy.whu.edu.cn/sukehua/en_US/index.htm">Kehua Su</a>, Fei Liao, Na Zhan, Huangxuan Zhao, Tailang Yin, Lin Zhao
+  <br>
+  <i>Briefings in Bioinformatics</i>
+  <br>
+  [<a href="">Paper</a>] [<a href="https://github.com/Gift-OYS/M3Site">Code</a>]
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
   <img src="../images/ACSB.png" alt="image" style="width: 300px; margin-right: 10px;">
   <p>
   <span style="font-weight: bold; font-size: 19px">Anatomy-Conserving Unpaired CBCT-to-CT Translation via Schrödinger Bridge</span>
   <br>
-  <a href="">Ke Shi</a>*, <span style="font-weight: bold">Song Ouyang</span>*, <a href="https://jszy.whu.edu.cn/sukehua/en_US/index.htm">Kehua Su</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ">Yong Luo</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ">Bo Du</a>, <a href="https://scholar.google.com/citations?user=mMn1WLIAAAAJ&hl=en">Gang Liu</a>, <a href="https://www.whuh.com/zlzx/info/1754/1199.htm">Zhiwen Liang</a>
+  <a href="">Ke Shi</a>*, <span style="font-weight: bold">Song Ouyang</span>*, <a href="https://jszy.whu.edu.cn/sukehua/en_US/index.htm">Kehua Su</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=zb1oVGIAAAAJ">Yong Luo</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Shy1gnMAAAAJ">Bo Du</a>, <a href="https://scholar.google.com/citations?user=mMn1WLIAAAAJ&hl=en">Gang Liu</a>, Zhiwen Liang
   <br>
   <i>28th International Conference on Medical Image Computing and Computer Assisted Intervention</i>
   <span style="font-weight: bold">(MICCAI 2025)</span> <i>(Early Accept)</i>
@@ -74,8 +87,11 @@ redirect_from:
 ## 🏅 Selected Honors
 
 * **Awards**
-  * [Nov. 2024] Outstanding Graduate Student of WHU **(Top 20%)**
+  * [Oct. 2025] National Scholarship for Postgraduates **(Top 1%)**
+  * [Oct. 2025] First-Class Scholarship of WHU **(Top 2%)**
+  * [Oct. 2025] Outstanding Graduate Student of WHU **(Top 20%)**
   * [Nov. 2024] Second-Class Scholarship of WHU **(Top 12%)**
+  * [Nov. 2024] Outstanding Graduate Student of WHU **(Top 20%)**
   * [Nov. 2023] First-Class Scholarship for Outstanding Freshmen **(Top 10%)**
   * [Jun. 2023] Student Model Award of Software College **(Top 0.25%)**
   * [Jun. 2023] Outstanding Graduate of Liaoning Province **(Top 3%)**
