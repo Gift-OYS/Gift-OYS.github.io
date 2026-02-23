@@ -121,6 +121,7 @@ redirect_from:
 ## 📌 Academic Service
 
 * **Reviewer**
+  * International Joint Conference on Artificial Intelligence **(IJCAI)**， 2026
   * Annual Conference on Neural Information Processing Systems **(NeurIPS)**, 2025
   * International Conference on Machine Learning **(ICML)**, 2025
   * International Conference on Pattern Recognition **(ICPR)**, 2024
