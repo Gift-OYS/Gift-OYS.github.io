@@ -20,6 +20,7 @@ I am passionate about the AI applications in scientific research, particularly i
 **<font color=red>I am currently seeking research collaborators and am also open to job opportunities as a Research Scientist/Engineer. Please feel free to contact me! (recommended via email)</font>**
 
 ## News
+* [May. 2026] One paper was accepted by **ICML 2026**!
 * [Oct. 2025] I was awarded the **National Scholarship for Postgraduates**!
 * [Oct. 2025] One paper was accepted by **Briefings in Bioinfomatics**!
 * [Jul. 2025] I work as an Intern in **Tencent** from now!
